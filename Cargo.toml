@@ -1,6 +1,6 @@
 [package]
 name = "typehints-my-apple"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Typehinting for `apple-me-curry`."
 repository = "https://github.com/usepen-nostchalk/typehints-my-apple"
